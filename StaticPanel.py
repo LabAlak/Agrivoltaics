@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 17 00:41:59 2024
 
-@author: L340
+@author: Luis Bustos
 """
 
 import pvlib
