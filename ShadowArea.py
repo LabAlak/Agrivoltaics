@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 10 00:36:10 2024
 
-@author: L340
+@author: Luis Bustos
 """
 
 import numpy as np
