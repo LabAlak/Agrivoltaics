@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 30 00:29:39 2024
 
-@author: L340
+@author: Luis Bustos
 """
 
 from pvlib import solarposition
